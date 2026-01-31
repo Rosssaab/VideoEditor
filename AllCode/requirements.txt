@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+Pillow>=10.2.0
+numpy>=1.24.0
+moviepy>=1.0.3
+
+# Animo / Manim (math animation engine)
+manim>=0.18.0

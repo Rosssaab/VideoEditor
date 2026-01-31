@@ -1,0 +1,19 @@
+{
+  "_comment": "Edit lines, font_size, color, font, stroke, text_position_y. Color/stroke_color: hex or name. Font: Comic Sans MS, Impact, Arial Black, etc. text_position_y: vertical position (0=center, positive=up, negative=down, range -8 to +8).",
+  "duration_seconds": 5,
+  "font_size": 100,
+  "font": "Comic Sans MS",
+  "color": "#FFFFFF",
+  "stroke_color": "#1a1a1a",
+  "stroke_width": 6,
+  "weight": "BOLD",
+  "text_position_y": 2,
+  "lines": [
+    "Old",
+    "Grumpy Guy",
+    "Moans",
+    "at BBC",
+    "News",
+    "Every day"
+  ]
+}
